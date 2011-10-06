@@ -1,0 +1,8 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/GraphViz/DBI.pm
+t/basic.t
+examples/dbigraph.pl
+examples/mydb.gif
